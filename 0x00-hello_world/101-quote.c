@@ -4,8 +4,7 @@
  * main - Entery point
  *
  *   * Return: Always 1
- *    */
- 
+ *    */ 
  int main(void)
 {
 		fprintf(stderr,
